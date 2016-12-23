@@ -10,6 +10,4 @@ Step 3:Run pod install
 
 Step 4:Open project->
 
-Select the project on the left pane
-Click 'General'
-Add the SDK under 'Embedded Binaries’ i.e "NeuraSDK.framework"
+Select the project on the left pane -> Click 'General' -> Add the SDK under 'Embedded Binaries’ i.e "NeuraSDK.framework"
